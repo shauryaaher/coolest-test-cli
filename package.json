@@ -1,0 +1,15 @@
+{
+  "name": "test-cli",
+  "version": "1.0.0",
+  "description": "My first ever CLI!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["first-cli"],
+  "author": "Shaurya Aher",
+  "license": "ISC",
+  "bin": {
+    "test-me": "bin/index.js"
+  }
+}
